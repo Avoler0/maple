@@ -1,0 +1,16 @@
+@font-face { font-family: 'pretendardB'; src: url('/font/Pretendard-Bold.ttf'); };
+
+@font-face { font-family: 'pretendardSB'; src: url('/font/Pretendard-SemiBold.ttf'); };
+
+@font-face { font-family: 'pretendardM'; src: url('/font/Pretendard-Medium.ttf'); }
+
+@font-face { font-family: 'pretendardR'; src: url('/font/Pretendard-Regular.ttf'); }
+
+
+* { box-sizing: border-box; font-size: 14px; font-family: 'pretendardR'; }
+
+body { margin: 0; padding: 0; }
+
+input,textarea { outline: none; border: 1px solid #D9D9D9; }
+
+button { cursor: pointer; }
